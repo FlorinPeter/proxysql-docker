@@ -1,10 +1,5 @@
 # ProxySQL Docker Image #
 
-## Supported Tags ##
-
-* [1.4, 1.4.13, latest (1.4/Dockerfile)](https://github.com/severalnines/proxysql-docker/blob/master/1.4/Dockerfile)
-
-
 ## Overview ##
 
 ProxySQL is a high-performance SQL proxy. Details at [ProxySQL](http://www.proxysql.com/) website.
